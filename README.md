@@ -5,7 +5,7 @@ Pastell Color Sheme For PhpStorm
 
 ## How To Install
 
-### [Download]() the file
+### [Download](https://raw.githubusercontent.com/gergelykralik/phpstorm-theme-pastell/master/Pastell.icls) the file
 
 _Right Click -> Save As_
 
