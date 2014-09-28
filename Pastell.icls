@@ -890,7 +890,6 @@
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
         <option name="FOREGROUND" value="61ce3c" />
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -903,7 +902,6 @@
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="d8fa3c" />
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1855,12 +1853,6 @@
     <option name="XML_PROLOGUE">
       <value>
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="0" />
-      </value>
-    </option>
-    <option name="XML_TAG_DATA">
-      <value>
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
