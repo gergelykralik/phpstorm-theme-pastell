@@ -1,7 +1,7 @@
 Pastell Color Sheme For PhpStorm
 ===
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/gergelykralik/phpstorm-theme-pastell/raw/master/screenshot.png)
 
 ## How To Install
 
